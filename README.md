@@ -1,5 +1,5 @@
 # upjv-python-datascience
-Travaux dirig"é
+Travaux dirigés
 # Python & Data Science — UPJV Amiens
 
 **Étudiant·e :** Yassine MORO
