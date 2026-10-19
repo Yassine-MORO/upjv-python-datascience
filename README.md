@@ -18,6 +18,7 @@ Python & Data Science réalisés sur Google Colab.
 | [TD1](td01_enonce.ipynb) | Introduction à Git | :white_check_mark: |
 | [TD2](td02_enonce.ipynb) | Introduction à GitHub | :white_check_mark: |
 | TD3 | Les bases de Python | :white_check_mark: |
+| [TD4](td04_enonce.ipynb) | Introduction à GitHub | :x: |
 
 ## Crédits
 
